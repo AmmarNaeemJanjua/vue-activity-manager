@@ -11,13 +11,13 @@ json-server --watch db.json --routes routes.json --port 8000
 ```
 
 ## API Reference
-```http
+```
   BASE_URL = http://localhost:8000/api
 ```
 
 #### Get All Activities
 
-```http
+```
   Method: GET
   Endpoint: /get-all-activities
 ```
@@ -93,7 +93,7 @@ json-server --watch db.json --routes routes.json --port 8000
 
 #### Add an Activity
 
-```http
+```
   Method: POST
   Endpoint: /add-activity
 ```
@@ -135,7 +135,7 @@ json-server --watch db.json --routes routes.json --port 8000
 
 #### Update Status of an Activity
 
-```http
+```
   Method: PATCH
   Endpoint: /update-activity-status/:id
 ```
@@ -175,7 +175,7 @@ json-server --watch db.json --routes routes.json --port 8000
 
 #### Delete an Activity
 
-```http
+```
   Method: Delete
   Endpoint: /delete-activity/:id
 ```
