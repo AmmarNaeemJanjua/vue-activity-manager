@@ -1,0 +1,6 @@
+{
+  "/api/get-all-activities": "/activities",
+  "/api/add-activity": "/activities",
+  "/api/update-activity-status/:id": "/activities/:id",
+  "/api/delete-activity/:id": "/activities/:id"
+}
