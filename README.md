@@ -2,12 +2,12 @@
 
 This web app is an activity manager built using Vue.js, Vuex, Vuetify and JSON Server. A user can add activities, mark them as completed or incomplete, delete them and can filter the activities according to their completion status.
 
-## API details
+## [API details](https://github.com/AmmarNaeemJanjua/vue-activity-manager/blob/main/db/README.md)
 ```
 db (folder) -> README.md (file)
 ```
 
-## Screenshots
+## [Screenshots](https://github.com/AmmarNaeemJanjua/vue-activity-manager/tree/main/screenshots)
 ```
 screenshots (folder)
 ```
