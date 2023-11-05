@@ -4,7 +4,12 @@ This web app is an activity manager built using Vue.js, Vuex, Vuetify and JSON S
 
 ## API details
 ```
-db -> README.md
+db (folder) -> README.md (file)
+```
+
+## Screenshots
+```
+screenshots (folder)
 ```
 
 ## Project setup
